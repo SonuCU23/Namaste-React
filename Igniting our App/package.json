@@ -1,0 +1,22 @@
+{
+  "name": "igniting-our-app",
+  "version": "1.0.0",
+  "description": "In this Module Will learn how to start our react app and about bundelers e.g., Parcel, Vite, Webpack ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sonu Ray",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
