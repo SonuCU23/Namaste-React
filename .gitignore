@@ -5,3 +5,6 @@ dist/
 
 # Mac/OSX
 .DS_Store
+
+# Compiled Java Files
+.class
